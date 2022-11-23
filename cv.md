@@ -43,3 +43,15 @@ function isIsogram(str){
 
 ***
 
+### Courses
+
+1. RS Schools Course «JavaScript/Front-end. Stage 0»  
+2. HTML and CSS Tutorials on the w3schools  
+
+***
+
+### Languages
+
+1. Russian - Native  
+2. English - Upper-Intermediate  
+3. Polish - Basic
