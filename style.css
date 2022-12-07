@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'Arodora Pro';
+    src: url(./fonts/ArodoraPro-Light.otf);
+}
+
+body {
+    background-color: #2C2C2C;
+}
+
+nav {
+    display: inline-block;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+header {
+    width: 1110px;
+    height: 48px;
+    margin: 0 auto;
+    line-height: 48px;
+}
+
+.logo {
+    margin-right: 225px;
+}
+
+nav span {
+    color: #E4E4E4;
+    font-family: 'Arodora Pro';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    margin-right: 145px;
+}
+
+nav span:last-child {
+    margin-right: 0px;
+}
