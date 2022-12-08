@@ -3,6 +3,11 @@
     src: url(./fonts/ArodoraPro-Light.otf);
 }
 
+@font-face {
+    font-family: 'Next Art';
+    src: url(./fonts/NEXT_ART_Regular.otf);
+}
+
 body {
     background-color: #2C2C2C;
 }
@@ -24,15 +29,49 @@ header {
     margin-right: 225px;
 }
 
-nav span {
+nav a {
     color: #E4E4E4;
     font-family: 'Arodora Pro';
     font-style: normal;
     font-weight: 300;
     font-size: 18px;
     margin-right: 145px;
+    text-decoration: none;
 }
 
-nav span:last-child {
+nav a:last-child {
     margin-right: 0px;
+}
+
+.self-pr {
+    width: 1110px;
+    height: 674.47px;
+    margin: 0 auto;
+    vertical-align: middle;
+}
+
+h1 {
+    font-family: 'Next Art';
+    font-size: 72px;
+    color: #E4E4E4;
+}
+
+.aboutMyself {
+    width: 447px;
+    font-family: 'Next Art';
+    color: #E4E4E4;
+}
+
+.myPhoto {
+    width: 632px;
+    height: 100%;
+    float: right;
+}
+
+.about {
+    display: inline-block;
+    width: 447px;
+    color: #E4E4E4;
+    margin: 151px 0;
+
 }
